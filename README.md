@@ -1,4 +1,4 @@
-# Script Test-Connection – Verifica quais computadores estão ligados e desligados
+# Script Test-Connection – Verifica quais computadores estão ligados e desligados.
 
 Conteúdo:
 
